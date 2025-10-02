@@ -7,7 +7,7 @@ I am a passionate and data-driven professional currently pursuing a Master of Sc
 
 ---
 
-### 🚀 Projects & Achievements
+### 🚀 Projects & Achievements (Econet Wireless - 2019 to 2025)
 
 🔮 Predictive Analytics for Risk Mitigation
 - Applied predictive analytics and anomaly detection models to proactively identify and address revenue leakage and fraud risks.
